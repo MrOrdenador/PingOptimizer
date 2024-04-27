@@ -3,5 +3,5 @@ DISCLAIMER
 -Please be aware that while our optimizations aim to enhance ping performance, individual results may vary depending on network conditions and configurations.
 -Our optimizations are provided under the GNU General Public License version 3 (GPL v3), which allows free usage in any context, however, attribution is required. Please credit appropriately.
 -If you need to contact me, you can reach me on Discord: mrordenador.
--Please note that I cannot be held responsible for any issues or damages that may arise from the use of this optimization tool (though such occurrences are rare).
+-Please note that I cannot be held responsible for any issues or damages that may arise from the use of this optimization tool (though such occurrences are strange).
 
